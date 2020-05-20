@@ -1,0 +1,12 @@
+{
+    "name": "Test",
+    "description": "Prueba de un proyecto",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_DESKTOP-F5Q426D.json",
+            "credentialsFile": "flows_DESKTOP-F5Q426D_cred.json"
+        }
+    }
+}
