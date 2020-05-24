@@ -1,7 +1,7 @@
 Test
 ====
 
-Prueba de un proyecto
+Prueba de conexion de un BNI008Z con node-red
 
 ### About
 

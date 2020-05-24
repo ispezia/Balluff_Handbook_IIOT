@@ -1,8 +1,11 @@
 {
     "name": "Test",
-    "description": "Prueba de un proyecto",
+    "description": "Handbook Balluff IIOT",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-ui-led": "0.3.1",
+        "node-red-dashboard": "2.22.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_DESKTOP-F5Q426D.json",
