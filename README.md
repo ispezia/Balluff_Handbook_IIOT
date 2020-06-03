@@ -1,9 +1,6 @@
-Test
-====
+Introduction
+------------
 
-Prueba de conexion de un BNI008Z con node-red
+This Node-red project tries to show how to connect an IO-Link master ETH/IP (BNI008Z) to r/w the parameters of the connected IO-Link devices based on the information of the documents that are in the repository.
 
-### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
